@@ -19,8 +19,6 @@
 
 <br><br>
 
-https://github-readme-stats.vercel.app/api?username={lipeharakawa}&theme=blue-green
-
 
 <!--
 **lipeharakawa/lipeharakawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
