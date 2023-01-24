@@ -19,6 +19,7 @@
 
 <br><br>
 
+https://github-readme-stats.vercel.app/api?username={lipeharakawa}&theme=blue-green
 
 
 <!--
