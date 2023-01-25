@@ -2,6 +2,12 @@
 
 <h1 align="left">Olá! Bem-vindo ao meu perfil do GitHub, sou Felipe Harakawa. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
+<p align="center">
+  <a href="#-tecnologias-e-ferramentas"> Tecnologias e Ferramentas</a>     |    
+  <a href="#%EF%B8%8F-estatísticas-github">Estatísticas GitHub</a>     |    
+  <a href="#-contato">Contato</a>     |    
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lipeharakawa&color=yellow" alt="Visualizações de perfil" /> </p> 
 
 - 🔥 Desenvolvedor de Software Junior.
