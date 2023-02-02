@@ -10,10 +10,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lipeharakawa&color=yellow" alt="Visualizações de perfil" /> </p> 
 
-- 🔥 Desenvolvedor de Software Junior.
-- 📚 Formado em Sistemas de Informação pela Universidade Federal de Santa Maria.
-- 💼 Desejo atuar na área de Tecnologia da Informação ou áreas correlacionadas.
-- 📞 Whatsapp: (18) 98189-5945 Discord: FelipeHarakawa#4615.
+- 🔥 Desenvolvedor de Software Junior
+- 📚 Formado em Sistemas de Informação pela Universidade Federal de Santa Maria
+- 💼 Desejo atuar na área de Tecnologia da Informação ou áreas correlatadas
+- 📞 Whatsapp: (18) 98189-5945 / Discord: FelipeHarakawa#4615.
 - 📍  Presidente Prudente - São Paulo, Brasil. 
 
 <br><br>
