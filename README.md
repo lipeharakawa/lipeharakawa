@@ -13,8 +13,8 @@
 - 🔥 Desenvolvedor de Software Junior
 - 📚 Formado em Sistemas de Informação pela Universidade Federal de Santa Maria
 - 💼 Desejo atuar na área de Tecnologia da Informação ou área correlatada
-- 📞 Whatsapp: (18) 98189-5945 / Discord: FelipeHarakawa#4615.
-- 📍  Presidente Prudente - São Paulo, Brasil. 
+- 📞 Whatsapp: (18) 98189-5945 / Discord: FelipeHarakawa#4615
+- 📍  Presidente Prudente - São Paulo, Brasil
 
 <br><br>
 
