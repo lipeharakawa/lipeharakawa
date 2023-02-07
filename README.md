@@ -39,8 +39,8 @@
 ## ⚙️ Estatísticas GitHub
 
 <p align="esquerda">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lipeharakawa&show_icons=true&theme=vision-friendly-dark" alt="lipeharakawa's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipeharakawa&layout=compact&theme=vision-friendly-dark" alt="maioria dos idiomas de lipeharakawa " />
+<img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lipeharakawa&show_icons=true&theme=vision-friendly-dark" alt="lipeharakawa's stats"/>
+<img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lipeharakawa&layout=compact&theme=vision-friendly-dark" alt="maioria dos idiomas de lipeharakawa " />
 </p>
 
 <br><br>
