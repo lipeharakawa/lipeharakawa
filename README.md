@@ -1,4 +1,4 @@
-<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/lipeharakawa/09692db8553d69d6f8c1eb0278bef856/raw/1be5f84022f8733167cd3d75fc04a2a7b8e1f8ad/githubcard.svg"/>
+<img align="right" height="400em" src="https://raw.githubusercontent.com/gist/lipeharakawa/09692db8553d69d6f8c1eb0278bef856/raw/1be5f84022f8733167cd3d75fc04a2a7b8e1f8ad/githubcard.svg"/>
 
 <h1 align="left">Olá! Bem-vindo ao meu perfil do GitHub, sou Felipe Harakawa. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
