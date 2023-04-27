@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lipeharakawa&color=yellow" alt="Visualizações de perfil" /> </p> 
 
-- 🔥 Desenvolvedor de Software Junior
+- 🔥 Desenvolvedor Front-End | HTML | CSS | JavaScript | PHP
 - 📚 Formado em Sistemas de Informação pela Universidade Federal de Santa Maria
 - 💼 Desejo atuar na área de Tecnologia da Informação ou áreas correlatas
 - 📞 Discord: FelipeHarakawa#4615
