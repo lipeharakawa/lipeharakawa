@@ -46,12 +46,8 @@
 <a href="https://www.linkedin.com/in/felipe-seidi-harakawa-3a3712248" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
-<a href="https://instagram.com/feharakawa" target="_blank">
-<img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://www.facebook.com/felipe.harakawa" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
+
+
 </p>
 
 <br><br>
